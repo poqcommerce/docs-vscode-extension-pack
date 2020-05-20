@@ -1,0 +1,21 @@
+{
+  "name": "poq-docs",
+  "displayName": "Poq Docs",
+  "description": "Recommended extensions for contributing to Poq Docs",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "repository": "https://github.com/poqcommerce/docs-vscode-extension-pack",
+  "publisher": "poq",
+  "engines": {
+    "vscode": "^1.45.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "streetsidesoftware.code-spell-checker",
+    "docsmsft.docs-images",
+    "DavidAnson.vscode-markdownlint",
+    "silvenon.mdx"
+  ]
+}
